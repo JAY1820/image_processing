@@ -2,31 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Image Processing Repository - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    
-    h1 {
-      color: #333;
-      font-size: 28px;
-    }
-    
-    h2 {
-      color: #555;
-      font-size: 22px;
-    }
-    
-    p {
-      color: #666;
-      font-size: 16px;
-    }
-  </style>
-</head>
 <body>
   <h1>Image Processing Repository</h1>
   
