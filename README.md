@@ -11,9 +11,9 @@
   
    <h2>Tools Use:</h2>
   <p>
-    1)Python
-    2)OpenCv
-    3)matplotlib
+    1)Python </br>
+    2)OpenCv  </br>
+    3)matplotlib  </br>
     </p>
   
   <h2>Usage Guide:</h2>
