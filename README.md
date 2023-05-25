@@ -1,4 +1,3 @@
-# image_processing
 
 <!DOCTYPE html>
 <html>
@@ -7,9 +6,15 @@
   
   <h2>Welcome to the Image Processing Repository!</h2>
   <p>
-    This repository utilizes the power of OpenCV to offer a comprehensive set of tools and algorithms for efficient image analysis. Whether you're a researcher, developer, or enthusiast, this repository aims to simplify and enhance your image processing workflows.
+    This repository utilizes the power of OpenCV to perform a basic and intermediate  program of image processing and some project.
   </p>
   
+   <h2>Tools Use:</h2>
+  <p>
+    1)Python
+    2)OpenCv
+    3)matplotlib
+    </p>
   
   <h2>Usage Guide:</h2>
   <ol>
@@ -22,7 +27,7 @@
   </ol>
   
   <p>
-    We hope this repository enhances your image processing capabilities and serves as a valuable resource for your projects. Happy processing!
+    We hope this repository enhances your image processing capabilities using OpenCVS
   </p>
 </body>
 </html>
