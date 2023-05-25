@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Image Processing Repository</h1>
+  <h1>Image Processing</h1>
   
   <h2>Welcome to the Image Processing Repository!</h2>
   <p>
