@@ -1,0 +1,1 @@
+#segmenation using a gray level threshold
